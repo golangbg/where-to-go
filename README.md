@@ -7,6 +7,7 @@ An aplhabetical list of companies in Bulgaria that currently use the Go programm
 | [Acronis](https://www.acronis.com/en-eu/careers/)           | Cyber security & protection
 | [Chaos Group](https://www.chaosgroup.com/careers)           | World leader in computer graphics and rendering
 | [Gaida.AI](https://www.gaida.ai/bagpipers)                  | ML in the Real Estate domain
+| [Gtmhub](https://www.gtmhub.com)                            | World's most intuitive OKR software
 | [Mailjet (via Proxiad)](https://mailjet.workable.com/)      | E-mail relay
 | [SAP](https://jobs.sap.com/go/SAP-Jobs-in-Bulgaria/913101/) | Is SAP.
 | [Sashido](https://www.sashido.io/about.html#Careers)        | Mobile Backend as a service platform.
