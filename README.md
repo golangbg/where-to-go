@@ -12,4 +12,5 @@ An aplhabetical list of companies in Bulgaria that currently use the Go programm
 | [SAP](https://jobs.sap.com/go/SAP-Jobs-in-Bulgaria/913101/) | Is SAP.
 | [Sashido](https://www.sashido.io/about.html#Careers)        | Mobile Backend as a service platform.
 | [SiteGround](https://www.siteground.com/careers)            | Web hosting services
+| [TaxiMe](https://taxime.to/jobs)                            | Evolving urban transportation
 | [Uber](https://careersinfo.uber.com/sofia-engineering)      | Is Uber.
