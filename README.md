@@ -11,9 +11,9 @@ An aplhabetical list of companies in Bulgaria that currently use the Go programm
 | [Gaida.AI](https://www.gaida.ai/bagpipers)                  | ML in the Real Estate domain
 | [Gtmhub](https://www.gtmhub.com)                            | World's most intuitive OKR software
 | [Mailjet (via Proxiad)](https://mailjet.workable.com/)      | E-mail relay
+| [MIRACL](https://www.miracl.com/)                      | Multi-factor authentication solutions (hires via Questers)
 | [SAP](https://jobs.sap.com/go/SAP-Jobs-in-Bulgaria/913101/) | Is SAP.
 | [Sashido](https://www.sashido.io/about.html#Careers)        | Mobile Backend as a service platform.
 | [SiteGround](https://www.siteground.com/careers)            | Web hosting services
 | [TaxiMe](https://taxime.to/jobs)                            | Evolving urban transportation
 | [Uber](https://careersinfo.uber.com/sofia-engineering)      | Is Uber.
-| [MIRACL](https://www.questers.com/open-positions)           | Multi-factor authentication solutions
