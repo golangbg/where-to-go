@@ -17,4 +17,4 @@ An aplhabetical list of companies in Bulgaria that currently use the Go programm
 | [SumUp](https://sumup.com/careers/positions/)               | Fintech empowering small businesses
 | [TaxiMe](https://taxime.to/jobs)                            | Evolving urban transportation
 | [Uber](https://careersinfo.uber.com/sofia-engineering)      | Is Uber
-| [VM Ware](https://careers.vmware.com/bulgaria-office)       | Have multiple Go teams in the Bulgarian office now.
+| [VMware](https://careers.vmware.com/bulgaria-office)       | Have multiple Go teams in the Bulgarian office now.
