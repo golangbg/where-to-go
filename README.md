@@ -6,6 +6,7 @@ An aplhabetical list of companies in Bulgaria that currently use the Go programm
 | ------ | ------ |
 | [Acronis](https://www.acronis.com/en-eu/careers/)           | Cyber security & protection
 | [Chaos Group](https://www.chaosgroup.com/careers)           | World leader in computer graphics and rendering
+| [Coursera](https://dev.bg/company/coursera/)                | Serving the world through learning
 | [Financial Times Sofia](https://www.linkedin.com/company/ftsofia/) | Business insights, news and reports
 | [Gaida.AI](https://www.gaida.ai/bagpipers)                  | ML in the Real Estate domain
 | [Gtmhub](https://www.gtmhub.com)                            | World's most intuitive OKR software
