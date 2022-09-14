@@ -12,6 +12,7 @@ An aplhabetical list of companies in Bulgaria that currently use the Go programm
 | [Gtmhub](https://www.gtmhub.com)                            | World's most intuitive OKR software
 | [Mailjet (via Proxiad)](https://mailjet.workable.com/)      | E-mail relay
 | [MIRACL (via Questers)](https://www.miracl.com/)            | Multi-factor authentication solutions
+| [Outdoorsy](https://dev.bg/company/outdoorsy/)              | RV Rental Marketplace
 | [PlanDelta](https://plandelta.com/)                         | The collaborative tool for one continious planning
 | [SAP](https://jobs.sap.com/go/SAP-Jobs-in-Bulgaria/913101/) | Is SAP
 | [Sashido](https://www.sashido.io/about.html#Careers)        | Mobile Backend as a service platform
