@@ -1,6 +1,6 @@
 # Where to GO?
 
-An aplhabetical list of companies in Bulgaria that currently use the Go programming language in production.
+An alphabetical list of companies in Bulgaria that currently use the Go programming language in production.
 
 | Company | Domain |
 | ------ | ------ |
